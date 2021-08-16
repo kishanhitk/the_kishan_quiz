@@ -18,9 +18,18 @@ var highScores = [
 var questions = [{
     question: "Where do I live? ",
     answer: "Bihar"
-}, {
+}, 
+{
     question: "What is my favourite TV series? ",
     answer: "Silicon Valley"
+},
+{
+    question: "What is my favourite book? ",
+    answer: "The Alchemist"
+},
+{
+    question: "What is my favourite frontend framework?",
+    answer: "Nextjs"
 },
 {
     question: "Where do I study? ",
